@@ -1,0 +1,95 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/SubwaySurfInjector/app/src/main/cpp/Client/client.cpp",
+      "selection": {
+        "end": {
+          "column": 46,
+          "index": 287,
+          "line": 11
+        },
+        "start": {
+          "column": 46,
+          "index": 287,
+          "line": 11
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/SubwaySurfInjector/app/src/main/cpp/Server/Server.cpp",
+      "selection": {
+        "end": {
+          "column": 55,
+          "index": 3245,
+          "line": 110
+        },
+        "start": {
+          "column": 55,
+          "index": 3245,
+          "line": 110
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/SubwaySurfInjector/app/src/main/java/xyz/injector/subwaysurf/Native.java",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 15,
+          "line": 0
+        },
+        "start": {
+          "column": 15,
+          "index": 15,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/SubwaySurfInjector/app/src/main/java/xyz/injector/subwaysurf/FloatingViewService.java",
+      "selection": {
+        "end": {
+          "column": 41,
+          "index": 2023,
+          "line": 59
+        },
+        "start": {
+          "column": 31,
+          "index": 2013,
+          "line": 59
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/SubwaySurfInjector/app/src/main/java/xyz/injector/subwaysurf/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/SubwaySurfInjector/build.gradle",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/SubwaySurfInjector/build.gradle"
+}
